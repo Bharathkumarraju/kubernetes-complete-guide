@@ -1,3 +1,3 @@
 # kubernetes-complete-guide
 
-#### opensource orchestration system for containers
+#### kubernetes is a opensource orchestration system for containers
