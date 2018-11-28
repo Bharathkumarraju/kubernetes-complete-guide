@@ -29,4 +29,6 @@ kube-system   replicaset.extensions/kube-dns-196007617          1         1     
 ~/kubernetes-complete-guide(master ✔)
 ```
 
+##### minikube service hello-minikube --url
+
 
